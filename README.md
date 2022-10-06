@@ -1,2 +1,2 @@
 # Khan-Academy-Checkers
-A checkers game written in Javascript built using Khan Academy.
+A checkers game written in Javascript with custom graphics, custom scoreboard, built using Khan Academy.
